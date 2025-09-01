@@ -296,17 +296,6 @@ REACT_APP_TITLE=HiringSight
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 **License**
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙋‍♂️ **Support**
-
-For questions and support:
-- 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-repo/issues)
-- 📖 Docs: [Project Documentation](https://your-docs-url.com)
-
 ---
 
 **Built with ❤️ for smarter hiring decisions**
