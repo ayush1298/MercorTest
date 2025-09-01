@@ -1,0 +1,154 @@
+{
+  "dataset_summary": {
+    "total_candidates": 975,
+    "avg_overall_score": 68.15,
+    "avg_enhanced_score": 73.05,
+    "score_std": 16.44,
+    "countries_represented": 415,
+    "avg_salary": 95998.41,
+    "median_salary": 97977.0
+  },
+  "score_distribution": {
+    "basic_scoring": {
+      "top_10_percent": 101,
+      "top_25_percent": 239,
+      "top_50_percent": 485
+    },
+    "enhanced_scoring": {
+      "top_10_percent": 96,
+      "top_25_percent": 243,
+      "top_50_percent": 487
+    }
+  },
+  "geographic_distribution": {
+    "United States": 126,
+    "Brazil": 93,
+    "Argentina": 35,
+    "Canada": 33,
+    "Pakistan": 16,
+    "S\u00e3o Paulo": 15,
+    "Bangladesh": 14,
+    "Unknown": 12,
+    "Mexico": 12,
+    "Germany": 11
+  },
+  "experience_distribution": {
+    "Senior": 646,
+    "Mid-Level": 204,
+    "Junior": 77,
+    "Entry-Level": 48
+  },
+  "skill_category_distribution": {
+    "None": 391,
+    "frontend": 215,
+    "languages": 131,
+    "data": 61,
+    "backend": 55,
+    "database": 47,
+    "cloud": 46,
+    "devops": 18,
+    "mobile": 11
+  },
+  "salary_statistics": {
+    "by_experience": {
+      "Entry-Level": 97714.14583333333,
+      "Junior": 91630.79220779221,
+      "Mid-Level": 97971.6862745098,
+      "Senior": 95768.38390092879
+    },
+    "by_country": {
+      "AL": 52815.0,
+      "AZ": 123967.0,
+      "Abu Dhabi": 61280.0,
+      "Aix-en-Provence": 116505.0,
+      "Albania": 104567.0,
+      "Alberta": 88188.0,
+      "Alcindo Dell\u2019agnese": 54478.0,
+      "Alexandria": 80908.0,
+      "Amman": 112553.0,
+      "Amuwo Odofin": 70150.0
+    }
+  },
+  "top_skills": [
+    [
+      "Java",
+      294
+    ],
+    [
+      "Python",
+      272
+    ],
+    [
+      "SQL",
+      256
+    ],
+    [
+      "React",
+      198
+    ],
+    [
+      "JavaScript",
+      181
+    ],
+    [
+      "HTML/CSS",
+      150
+    ],
+    [
+      "Node JS",
+      125
+    ],
+    [
+      "Amazon Web Services",
+      116
+    ],
+    [
+      "Angular",
+      113
+    ],
+    [
+      "REST APIs",
+      111
+    ],
+    [
+      "Docker",
+      110
+    ],
+    [
+      "PHP",
+      98
+    ],
+    [
+      "TypeScript",
+      94
+    ],
+    [
+      "MongoDB",
+      91
+    ],
+    [
+      "Agile",
+      88
+    ],
+    [
+      "PostgreSQL",
+      86
+    ],
+    [
+      "C#",
+      78
+    ],
+    [
+      "Azure",
+      76
+    ],
+    [
+      "Django",
+      68
+    ],
+    [
+      "Machine Learning",
+      67
+    ]
+  ]
+}

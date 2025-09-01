@@ -1,0 +1,7 @@
+pandas
+pycountry_convert
+matplotlib
+seaborn
+fastapi
+uvicorn
+python-multipart

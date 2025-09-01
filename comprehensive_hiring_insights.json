@@ -1,0 +1,2709 @@
+{
+  "timestamp": "2025-09-02T00:28:35.708826",
+  "executive_summary": {
+    "total_candidates_analyzed": 975,
+    "high_value_opportunities": 162,
+    "global_talent_reach": 415,
+    "average_candidate_quality": 68.2,
+    "key_recommendation": "Focus on geographic arbitrage and full-stack capabilities",
+    "immediate_action_required": true,
+    "market_opportunity_score": 16.6
+  },
+  "dataset_overview": {
+    "total_candidates": 975,
+    "score_distribution": {
+      "mean": 68.15,
+      "median": 67.33,
+      "std": 16.44,
+      "top_10_percent_threshold": 91.0,
+      "top_25_percent_threshold": 81.0
+    },
+    "geographic_coverage": {
+      "total_countries": 415,
+      "top_5_countries": {
+        "United States": 126,
+        "Brazil": 93,
+        "Argentina": 35,
+        "Canada": 33,
+        "Pakistan": 16
+      },
+      "timezone_coverage": {
+        "Other": 617,
+        "Americas": 287,
+        "Asia": 30,
+        "Europe": 26,
+        "Unknown": 12,
+        "Asia-Pacific": 3
+      }
+    },
+    "skill_landscape": {
+      "total_unique_skills": 158,
+      "skill_categories": {
+        "frontend": 215,
+        "languages": 131,
+        "data": 61,
+        "backend": 55,
+        "database": 47,
+        "cloud": 46,
+        "devops": 18,
+        "mobile": 11
+      },
+      "full_stack_candidates": 214
+    },
+    "experience_profile": {
+      "experience_levels": {
+        "Senior": 646,
+        "Mid-Level": 204,
+        "Junior": 77,
+        "Entry-Level": 48
+      },
+      "big_tech_background": 47,
+      "senior_roles": 252
+    },
+    "salary_insights": {
+      "candidates_with_salary": 975,
+      "avg_salary_expectation": 95998.41,
+      "salary_range": {
+        "min": "45184",
+        "max": "144966",
+        "median": 97977.0
+      }
+    }
+  },
+  "market_intelligence": {
+    "salary_skill_correlation": -0.06004271533278282,
+    "high_value_candidates": 103,
+    "geographic_arbitrage_opportunities": {
+      "avg_salary": {
+        "Argentina": 91066.66,
+        "Bangladesh": 80431.57,
+        "Belo Horizonte": 78546.5,
+        "Bogot\u00e1": 92481.6,
+        "Brasil": 118906.29,
+        "Brazil": 98408.43,
+        "Buenos Aires": 104914.0,
+        "Canada": 92783.82,
+        "Chicago": 104159.8,
+        "Colombia": 98549.6,
+        "Dhaka": 110968.2,
+        "Egypt": 100468.73,
+        "Germany": 99119.45,
+        "IN": 95466.8,
+        "Lagos": 89460.2,
+        "Mexico": 101908.92,
+        "Pakistan": 101203.81,
+        "Peru": 89681.88,
+        "Porto Alegre": 93483.83,
+        "Rio de Janeiro": 92914.0,
+        "Romania": 112181.43,
+        "Spain": 90109.2,
+        "S\u00e3o Paulo": 107224.87,
+        "Toronto": 80213.0,
+        "United Kingdom": 91006.0,
+        "United States": 93609.83,
+        "Unknown": 96884.25
+      },
+      "median_salary": {
+        "Argentina": 92226.0,
+        "Bangladesh": 81407.5,
+        "Belo Horizonte": 76918.0,
+        "Bogot\u00e1": 89755.0,
+        "Brasil": 122133.0,
+        "Brazil": 100452.0,
+        "Buenos Aires": 107282.5,
+        "Canada": 93814.0,
+        "Chicago": 120145.0,
+        "Colombia": 100762.5,
+        "Dhaka": 116798.0,
+        "Egypt": 90512.0,
+        "Germany": 95036.0,
+        "IN": 96614.0,
+        "Lagos": 101800.0,
+        "Mexico": 97326.0,
+        "Pakistan": 118050.5,
+        "Peru": 82527.5,
+        "Porto Alegre": 89661.5,
+        "Rio de Janeiro": 99433.5,
+        "Romania": 128625.0,
+        "Spain": 86095.5,
+        "S\u00e3o Paulo": 121383.0,
+        "Toronto": 64950.0,
+        "United Kingdom": 91288.0,
+        "United States": 92864.0,
+        "Unknown": 91842.0
+      },
+      "candidate_count": {
+        "Argentina": "35",
+        "Bangladesh": "14",
+        "Belo Horizonte": "6",
+        "Bogot\u00e1": "5",
+        "Brasil": "7",
+        "Brazil": "93",
+        "Buenos Aires": "10",
+        "Canada": "33",
+        "Chicago": "5",
+        "Colombia": "10",
+        "Dhaka": "5",
+        "Egypt": "11",
+        "Germany": "11",
+        "IN": "5",
+        "Lagos": "5",
+        "Mexico": "12",
+        "Pakistan": "16",
+        "Peru": "8",
+        "Porto Alegre": "6",
+        "Rio de Janeiro": "6",
+        "Romania": "7",
+        "Spain": "10",
+        "S\u00e3o Paulo": "15",
+        "Toronto": "7",
+        "United Kingdom": "5",
+        "United States": "126",
+        "Unknown": "12"
+      },
+      "avg_score": {
+        "Argentina": 63.05,
+        "Bangladesh": 71.45,
+        "Belo Horizonte": 75.31,
+        "Bogot\u00e1": 79.13,
+        "Brasil": 58.0,
+        "Brazil": 71.25,
+        "Buenos Aires": 64.2,
+        "Canada": 74.28,
+        "Chicago": 61.23,
+        "Colombia": 71.55,
+        "Dhaka": 72.8,
+        "Egypt": 74.21,
+        "Germany": 68.5,
+        "IN": 62.77,
+        "Lagos": 71.8,
+        "Mexico": 63.03,
+        "Pakistan": 77.47,
+        "Peru": 68.21,
+        "Porto Alegre": 74.67,
+        "Rio de Janeiro": 63.83,
+        "Romania": 67.93,
+        "Spain": 72.62,
+        "S\u00e3o Paulo": 68.76,
+        "Toronto": 76.21,
+        "United Kingdom": 66.03,
+        "United States": 61.89,
+        "Unknown": 51.88
+      },
+      "avg_skills": {
+        "Argentina": 3.69,
+        "Bangladesh": 5.5,
+        "Belo Horizonte": 8.33,
+        "Bogot\u00e1": 5.0,
+        "Brasil": 3.29,
+        "Brazil": 5.05,
+        "Buenos Aires": 7.7,
+        "Canada": 7.18,
+        "Chicago": 2.6,
+        "Colombia": 3.4,
+        "Dhaka": 5.8,
+        "Egypt": 6.82,
+        "Germany": 5.82,
+        "IN": 3.8,
+        "Lagos": 5.0,
+        "Mexico": 2.5,
+        "Pakistan": 8.31,
+        "Peru": 5.0,
+        "Porto Alegre": 6.5,
+        "Rio de Janeiro": 2.17,
+        "Romania": 5.57,
+        "Spain": 4.6,
+        "S\u00e3o Paulo": 4.0,
+        "Toronto": 5.0,
+        "United Kingdom": 4.2,
+        "United States": 3.87,
+        "Unknown": 2.25
+      },
+      "senior_count": {
+        "Argentina": "7",
+        "Bangladesh": "3",
+        "Belo Horizonte": "0",
+        "Bogot\u00e1": "2",
+        "Brasil": "0",
+        "Brazil": "22",
+        "Buenos Aires": "3",
+        "Canada": "15",
+        "Chicago": "1",
+        "Colombia": "4",
+        "Dhaka": "1",
+        "Egypt": "2",
+        "Germany": "8",
+        "IN": "0",
+        "Lagos": "2",
+        "Mexico": "2",
+        "Pakistan": "6",
+        "Peru": "0",
+        "Porto Alegre": "1",
+        "Rio de Janeiro": "1",
+        "Romania": "1",
+        "Spain": "4",
+        "S\u00e3o Paulo": "6",
+        "Toronto": "4",
+        "United Kingdom": "3",
+        "United States": "35",
+        "Unknown": "3"
+      },
+      "big_tech_count": {
+        "Argentina": "2",
+        "Bangladesh": "0",
+        "Belo Horizonte": "0",
+        "Bogot\u00e1": "1",
+        "Brasil": "0",
+        "Brazil": "6",
+        "Buenos Aires": "0",
+        "Canada": "1",
+        "Chicago": "0",
+        "Colombia": "0",
+        "Dhaka": "0",
+        "Egypt": "0",
+        "Germany": "0",
+        "IN": "0",
+        "Lagos": "0",
+        "Mexico": "1",
+        "Pakistan": "0",
+        "Peru": "0",
+        "Porto Alegre": "0",
+        "Rio de Janeiro": "1",
+        "Romania": "1",
+        "Spain": "0",
+        "S\u00e3o Paulo": "2",
+        "Toronto": "1",
+        "United Kingdom": "0",
+        "United States": "9",
+        "Unknown": "1"
+      },
+      "value_score": {
+        "Argentina": 2.554771416893954,
+        "Bangladesh": 4.885830277837421,
+        "Belo Horizonte": 7.986763254887233,
+        "Bogot\u00e1": 4.278148301932492,
+        "Brasil": 1.6047931526582824,
+        "Brazil": 3.656317858134715,
+        "Buenos Aires": 4.711859237089426,
+        "Canada": 5.748097028124084,
+        "Chicago": 1.528401552230323,
+        "Colombia": 2.468503169977351,
+        "Dhaka": 3.805054060532657,
+        "Egypt": 5.037509680872844,
+        "Germany": 4.022116749033616,
+        "IN": 2.4985230467555213,
+        "Lagos": 4.012957717510133,
+        "Mexico": 1.546233636859266,
+        "Pakistan": 6.36118047334384,
+        "Peru": 3.8028863801695496,
+        "Porto Alegre": 5.1918604532997845,
+        "Rio de Janeiro": 1.4907452052435586,
+        "Romania": 3.372840763395511,
+        "Spain": 3.707190830680996,
+        "S\u00e3o Paulo": 2.5650765536017905,
+        "Toronto": 4.75047685537257,
+        "United Kingdom": 3.047337538184296,
+        "United States": 2.5586447491679025,
+        "Unknown": 1.204839795942065
+      },
+      "market_depth": {
+        "Argentina": 13.9,
+        "Bangladesh": 5.4,
+        "Belo Horizonte": 1.7999999999999998,
+        "Bogot\u00e1": 2.5999999999999996,
+        "Brasil": 2.1,
+        "Brazil": 38.5,
+        "Buenos Aires": 4.2,
+        "Canada": 16.2,
+        "Chicago": 1.9,
+        "Colombia": 4.6,
+        "Dhaka": 1.9,
+        "Egypt": 4.1,
+        "Germany": 6.5,
+        "IN": 1.5,
+        "Lagos": 2.3,
+        "Mexico": 4.699999999999999,
+        "Pakistan": 7.2,
+        "Peru": 2.4,
+        "Porto Alegre": 2.1999999999999997,
+        "Rio de Janeiro": 2.4999999999999996,
+        "Romania": 2.8,
+        "Spain": 4.6,
+        "S\u00e3o Paulo": 7.5,
+        "Toronto": 4.0,
+        "United Kingdom": 2.7,
+        "United States": 54.5,
+        "Unknown": 5.1
+      }
+    },
+    "skill_premium_analysis": {
+      "Unity": {
+        "salary_with_skill": 110986.38,
+        "salary_without_skill": 95795.87,
+        "premium_percentage": 15.86,
+        "candidate_count": 13,
+        "skill_category": "other",
+        "market_demand": "medium",
+        "top_countries": [
+          [
+            "Brazil",
+            4
+          ],
+          [
+            "Malaysia",
+            1
+          ],
+          [
+            "Parets del Valles",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 11,
+          "Mid-Level": 2
+        }
+      },
+      "Wix": {
+        "salary_with_skill": 106700.83,
+        "salary_without_skill": 95932.14,
+        "premium_percentage": 11.23,
+        "candidate_count": 6,
+        "skill_category": "other",
+        "market_demand": "low",
+        "top_countries": [
+          [
+            "United States",
+            1
+          ],
+          [
+            "Canonsburg",
+            1
+          ],
+          [
+            "New York",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 4,
+          "Mid-Level": 2
+        }
+      },
+      "Data Analysis": {
+        "salary_with_skill": 102775.75,
+        "salary_without_skill": 95798.02,
+        "premium_percentage": 7.28,
+        "candidate_count": 28,
+        "skill_category": "data_ai",
+        "market_demand": "high",
+        "top_countries": [
+          [
+            "Brazil",
+            4
+          ],
+          [
+            "United States",
+            4
+          ],
+          [
+            "Macei\u00f3",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 17,
+          "Mid-Level": 8,
+          "Junior": 3
+        }
+      },
+      "Cypress": {
+        "salary_with_skill": 102868.92,
+        "salary_without_skill": 95912.8,
+        "premium_percentage": 7.25,
+        "candidate_count": 12,
+        "skill_category": "other",
+        "market_demand": "medium",
+        "top_countries": [
+          [
+            "Indonesia",
+            1
+          ],
+          [
+            "Alcindo Dell\u2019agnese",
+            1
+          ],
+          [
+            "Belo Horizonte",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 9,
+          "Mid-Level": 2,
+          "Junior": 1
+        }
+      },
+      "Mocha": {
+        "salary_with_skill": 101963.17,
+        "salary_without_skill": 95961.48,
+        "premium_percentage": 6.25,
+        "candidate_count": 6,
+        "skill_category": "other",
+        "market_demand": "low",
+        "top_countries": [
+          [
+            "Malvern",
+            1
+          ],
+          [
+            "Troy",
+            1
+          ],
+          [
+            "Brossard",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Mid-Level": 1,
+          "Senior": 5
+        }
+      },
+      "Photoshop": {
+        "salary_with_skill": 101586.4,
+        "salary_without_skill": 95911.1,
+        "premium_percentage": 5.92,
+        "candidate_count": 15,
+        "skill_category": "other",
+        "market_demand": "medium",
+        "top_countries": [
+          [
+            "United States",
+            2
+          ],
+          [
+            "Argentina",
+            2
+          ],
+          [
+            "Spain",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 11,
+          "Mid-Level": 3,
+          "Entry-Level": 1
+        }
+      },
+      "Power Automate": {
+        "salary_with_skill": 101171.22,
+        "salary_without_skill": 95950.22,
+        "premium_percentage": 5.44,
+        "candidate_count": 9,
+        "skill_category": "other",
+        "market_demand": "low",
+        "top_countries": [
+          [
+            "United States",
+            2
+          ],
+          [
+            "Venezuela",
+            1
+          ],
+          [
+            "Colombia",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Mid-Level": 4,
+          "Junior": 1,
+          "Senior": 4
+        }
+      },
+      "Pytorch": {
+        "salary_with_skill": 99822.14,
+        "salary_without_skill": 95970.76,
+        "premium_percentage": 4.01,
+        "candidate_count": 7,
+        "skill_category": "data_ai",
+        "market_demand": "low",
+        "top_countries": [
+          [
+            "Nashville",
+            1
+          ],
+          [
+            "UK",
+            1
+          ],
+          [
+            "Peru",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 7
+        }
+      },
+      "Django": {
+        "salary_with_skill": 99072.84,
+        "salary_without_skill": 95767.91,
+        "premium_percentage": 3.45,
+        "candidate_count": 68,
+        "skill_category": "high_demand_backend",
+        "market_demand": "high",
+        "top_countries": [
+          [
+            "Brazil",
+            6
+          ],
+          [
+            "United States",
+            5
+          ],
+          [
+            "Colombia",
+            3
+          ]
+        ],
+        "experience_distribution": {
+          "Mid-Level": 10,
+          "Senior": 50,
+          "Junior": 7,
+          "Entry-Level": 1
+        }
+      },
+      "Tensorflow": {
+        "salary_with_skill": 98966.19,
+        "salary_without_skill": 95948.9,
+        "premium_percentage": 3.14,
+        "candidate_count": 16,
+        "skill_category": "data_ai",
+        "market_demand": "medium",
+        "top_countries": [
+          [
+            "Pakistan",
+            3
+          ],
+          [
+            "United States",
+            2
+          ],
+          [
+            "UK",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 9,
+          "Mid-Level": 5,
+          "Junior": 2
+        }
+      },
+      "Rust": {
+        "salary_with_skill": 98608.56,
+        "salary_without_skill": 95974.09,
+        "premium_percentage": 2.74,
+        "candidate_count": 9,
+        "skill_category": "other",
+        "market_demand": "low",
+        "top_countries": [
+          [
+            "United States",
+            2
+          ],
+          [
+            "Sydney",
+            1
+          ],
+          [
+            "S\u00e3o Jos\u00e9",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Junior": 2,
+          "Senior": 6,
+          "Mid-Level": 1
+        }
+      },
+      "Illustrator": {
+        "salary_with_skill": 98297.0,
+        "salary_without_skill": 95981.79,
+        "premium_percentage": 2.41,
+        "candidate_count": 7,
+        "skill_category": "other",
+        "market_demand": "low",
+        "top_countries": [
+          [
+            "Spain",
+            1
+          ],
+          [
+            "Brasil",
+            1
+          ],
+          [
+            "Casey",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 5,
+          "Mid-Level": 2
+        }
+      },
+      "Flask": {
+        "salary_with_skill": 98063.49,
+        "salary_without_skill": 95903.13,
+        "premium_percentage": 2.25,
+        "candidate_count": 43,
+        "skill_category": "high_demand_backend",
+        "market_demand": "high",
+        "top_countries": [
+          [
+            "United States",
+            4
+          ],
+          [
+            "Brazil",
+            2
+          ],
+          [
+            "Pakistan",
+            2
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 32,
+          "Mid-Level": 7,
+          "Junior": 2,
+          "Entry-Level": 2
+        }
+      },
+      "C++": {
+        "salary_with_skill": 97826.12,
+        "salary_without_skill": 95863.55,
+        "premium_percentage": 2.05,
+        "candidate_count": 67,
+        "skill_category": "other",
+        "market_demand": "high",
+        "top_countries": [
+          [
+            "Brazil",
+            7
+          ],
+          [
+            "United States",
+            6
+          ],
+          [
+            "Canada",
+            4
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 51,
+          "Mid-Level": 13,
+          "Junior": 3
+        }
+      },
+      "PostgreSQL": {
+        "salary_with_skill": 97777.08,
+        "salary_without_skill": 95826.35,
+        "premium_percentage": 2.04,
+        "candidate_count": 86,
+        "skill_category": "databases",
+        "market_demand": "high",
+        "top_countries": [
+          [
+            "Brazil",
+            14
+          ],
+          [
+            "United States",
+            5
+          ],
+          [
+            "Canada",
+            5
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 65,
+          "Mid-Level": 16,
+          "Junior": 4,
+          "Entry-Level": 1
+        }
+      },
+      "Seaborn": {
+        "salary_with_skill": 97843.75,
+        "salary_without_skill": 95990.81,
+        "premium_percentage": 1.93,
+        "candidate_count": 4,
+        "skill_category": "other",
+        "market_demand": "low",
+        "top_countries": [
+          [
+            "United States",
+            2
+          ],
+          [
+            "Fremont",
+            1
+          ],
+          [
+            "Doha",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Mid-Level": 2,
+          "Senior": 2
+        }
+      },
+      "Python": {
+        "salary_with_skill": 96984.84,
+        "salary_without_skill": 95616.75,
+        "premium_percentage": 1.43,
+        "candidate_count": 272,
+        "skill_category": "high_demand_backend",
+        "market_demand": "high",
+        "top_countries": [
+          [
+            "United States",
+            34
+          ],
+          [
+            "Brazil",
+            27
+          ],
+          [
+            "Canada",
+            9
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 190,
+          "Junior": 23,
+          "Mid-Level": 54,
+          "Entry-Level": 5
+        }
+      },
+      "MongoDB": {
+        "salary_with_skill": 96834.33,
+        "salary_without_skill": 95912.36,
+        "premium_percentage": 0.96,
+        "candidate_count": 91,
+        "skill_category": "databases",
+        "market_demand": "high",
+        "top_countries": [
+          [
+            "Brazil",
+            9
+          ],
+          [
+            "United States",
+            7
+          ],
+          [
+            "Pakistan",
+            6
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 70,
+          "Mid-Level": 14,
+          "Entry-Level": 3,
+          "Junior": 4
+        }
+      },
+      "Power BI": {
+        "salary_with_skill": 96868.34,
+        "salary_without_skill": 95966.02,
+        "premium_percentage": 0.94,
+        "candidate_count": 35,
+        "skill_category": "other",
+        "market_demand": "high",
+        "top_countries": [
+          [
+            "Brazil",
+            8
+          ],
+          [
+            "United States",
+            5
+          ],
+          [
+            "CABA",
+            2
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 26,
+          "Mid-Level": 9
+        }
+      },
+      "Docker": {
+        "salary_with_skill": 96710.55,
+        "salary_without_skill": 95907.85,
+        "premium_percentage": 0.84,
+        "candidate_count": 110,
+        "skill_category": "cloud_devops",
+        "market_demand": "high",
+        "top_countries": [
+          [
+            "Brazil",
+            17
+          ],
+          [
+            "United States",
+            12
+          ],
+          [
+            "Pakistan",
+            8
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 91,
+          "Mid-Level": 14,
+          "Junior": 3,
+          "Entry-Level": 2
+        }
+      },
+      "Kotlin": {
+        "salary_with_skill": 96399.62,
+        "salary_without_skill": 95991.72,
+        "premium_percentage": 0.42,
+        "candidate_count": 16,
+        "skill_category": "mobile",
+        "market_demand": "medium",
+        "top_countries": [
+          [
+            "Rio de Janeiro",
+            1
+          ],
+          [
+            "Pakistan",
+            1
+          ],
+          [
+            "Southbank",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 11,
+          "Mid-Level": 5
+        }
+      },
+      "Cybersecurity": {
+        "salary_with_skill": 96267.67,
+        "salary_without_skill": 95997.58,
+        "premium_percentage": 0.28,
+        "candidate_count": 3,
+        "skill_category": "other",
+        "market_demand": "low",
+        "top_countries": [
+          [
+            "London",
+            1
+          ],
+          [
+            "Tempe",
+            1
+          ],
+          [
+            "Sunnyvale",
+            1
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 2,
+          "Mid-Level": 1
+        }
+      },
+      "Kubernetes": {
+        "salary_with_skill": 96215.88,
+        "salary_without_skill": 95985.16,
+        "premium_percentage": 0.24,
+        "candidate_count": 56,
+        "skill_category": "cloud_devops",
+        "market_demand": "high",
+        "top_countries": [
+          [
+            "United States",
+            6
+          ],
+          [
+            "Canada",
+            4
+          ],
+          [
+            "Brazil",
+            3
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 50,
+          "Mid-Level": 5,
+          "Junior": 1
+        }
+      },
+      "Vue JS": {
+        "salary_with_skill": 95698.89,
+        "salary_without_skill": 96010.56,
+        "premium_percentage": -0.32,
+        "candidate_count": 38,
+        "skill_category": "high_demand_frontend",
+        "market_demand": "high",
+        "top_countries": [
+          [
+            "Brazil",
+            4
+          ],
+          [
+            "United States",
+            3
+          ],
+          [
+            "Canada",
+            3
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 30,
+          "Mid-Level": 7,
+          "Junior": 1
+        }
+      },
+      "SQL": {
+        "salary_with_skill": 95673.41,
+        "salary_without_skill": 96114.13,
+        "premium_percentage": -0.46,
+        "candidate_count": 256,
+        "skill_category": "databases",
+        "market_demand": "high",
+        "top_countries": [
+          [
+            "United States",
+            30
+          ],
+          [
+            "Brazil",
+            29
+          ],
+          [
+            "Canada",
+            17
+          ]
+        ],
+        "experience_distribution": {
+          "Senior": 189,
+          "Mid-Level": 54,
+          "Junior": 9,
+          "Entry-Level": 4
+        }
+      }
+    },
+    "salary_inflation_analysis": {
+      "Entry-Level": {
+        "avg_salary": 97714.15,
+        "median_salary": 99922.5,
+        "salary_range": {
+          "min": "45834",
+          "max": "142626",
+          "q1": 80856.0,
+          "q3": 124223.5
+        },
+        "candidate_count": 48
+      },
+      "Junior": {
+        "avg_salary": 91630.79,
+        "median_salary": 92564.0,
+        "salary_range": {
+          "min": "45939",
+          "max": "144738",
+          "q1": 63579.0,
+          "q3": 119602.0
+        },
+        "candidate_count": 77
+      },
+      "Mid-Level": {
+        "avg_salary": 97971.69,
+        "median_salary": 98908.0,
+        "salary_range": {
+          "min": "45184",
+          "max": "144044",
+          "q1": 73026.5,
+          "q3": 123657.75
+        },
+        "candidate_count": 204
+      },
+      "Senior": {
+        "avg_salary": 95768.38,
+        "median_salary": 97784.0,
+        "salary_range": {
+          "min": "45562",
+          "max": "144966",
+          "q1": 70597.0,
+          "q3": 119367.5
+        },
+        "candidate_count": 646
+      }
+    },
+    "market_saturation": {
+      "Java + JavaScript": {
+        "candidate_count": 181,
+        "avg_score": 83.16,
+        "saturation_level": "high"
+      },
+      "Java + SQL": {
+        "candidate_count": 161,
+        "avg_score": 85.7,
+        "saturation_level": "high"
+      },
+      "Java + React": {
+        "candidate_count": 131,
+        "avg_score": 85.34,
+        "saturation_level": "high"
+      },
+      "Java + Python": {
+        "candidate_count": 131,
+        "avg_score": 85.73,
+        "saturation_level": "high"
+      },
+      "Python + SQL": {
+        "candidate_count": 127,
+        "avg_score": 85.84,
+        "saturation_level": "high"
+      },
+      "HTML/CSS + Java": {
+        "candidate_count": 124,
+        "avg_score": 83.88,
+        "saturation_level": "high"
+      },
+      "HTML/CSS + JavaScript": {
+        "candidate_count": 106,
+        "avg_score": 83.95,
+        "saturation_level": "high"
+      },
+      "JavaScript + SQL": {
+        "candidate_count": 101,
+        "avg_score": 87.24,
+        "saturation_level": "high"
+      },
+      "React + SQL": {
+        "candidate_count": 95,
+        "avg_score": 87.85,
+        "saturation_level": "high"
+      },
+      "JavaScript + Python": {
+        "candidate_count": 93,
+        "avg_score": 86.18,
+        "saturation_level": "high"
+      },
+      "HTML/CSS + SQL": {
+        "candidate_count": 88,
+        "avg_score": 87.29,
+        "saturation_level": "high"
+      },
+      "PostgreSQL + SQL": {
+        "candidate_count": 86,
+        "avg_score": 86.29,
+        "saturation_level": "high"
+      },
+      "Node JS + React": {
+        "candidate_count": 85,
+        "avg_score": 86.3,
+        "saturation_level": "high"
+      },
+      "JavaScript + React": {
+        "candidate_count": 85,
+        "avg_score": 85.91,
+        "saturation_level": "high"
+      },
+      "Python + React": {
+        "candidate_count": 79,
+        "avg_score": 87.99,
+        "saturation_level": "high"
+      }
+    }
+  },
+  "team_composition": {
+    "diversity_metrics": {
+      "geographic_diversity": 415,
+      "skill_category_diversity": 9,
+      "experience_level_distribution": {
+        "Senior": 646,
+        "Mid-Level": 204,
+        "Junior": 77,
+        "Entry-Level": 48
+      },
+      "salary_range_distribution": {
+        "Premium": 414,
+        "Standard": 365,
+        "Budget": 144,
+        "Executive": 52
+      },
+      "timezone_diversity": 6,
+      "education_diversity": {
+        "Bachelor's Degree": 534,
+        "Master's Degree": 271,
+        "Associate's Degree": 59,
+        "Doctorate": 30,
+        "High School Diploma": 14,
+        "Juris Doctor (J.D)": 12
+      }
+    },
+    "skill_complementarity": {
+      "Computer Vision + MongoDB": {
+        "avg_score": 99.5,
+        "frequency": 4,
+        "score_variance": 0.5,
+        "avg_salary": 63898.0,
+        "geographic_spread": 2,
+        "value_rating": 1.56
+      },
+      "MongoDB + NLP": {
+        "avg_score": 90.67,
+        "frequency": 6,
+        "score_variance": 4.19,
+        "avg_salary": 59948.67,
+        "geographic_spread": 3,
+        "value_rating": 1.51
+      },
+      "Express + Machine Learning": {
+        "avg_score": 97.67,
+        "frequency": 6,
+        "score_variance": 3.3,
+        "avg_salary": 65697.67,
+        "geographic_spread": 3,
+        "value_rating": 1.49
+      },
+      "Data Analysis + Express": {
+        "avg_score": 93.0,
+        "frequency": 4,
+        "score_variance": 0.0,
+        "avg_salary": 62307.0,
+        "geographic_spread": 2,
+        "value_rating": 1.49
+      },
+      "React + Swift": {
+        "avg_score": 83.58,
+        "frequency": 4,
+        "score_variance": 10.42,
+        "avg_salary": 57042.0,
+        "geographic_spread": 2,
+        "value_rating": 1.47
+      },
+      "Redis + Vue JS": {
+        "avg_score": 90.0,
+        "frequency": 4,
+        "score_variance": 5.0,
+        "avg_salary": 62881.5,
+        "geographic_spread": 2,
+        "value_rating": 1.43
+      },
+      "React Native + Vue JS": {
+        "avg_score": 94.0,
+        "frequency": 10,
+        "score_variance": 3.69,
+        "avg_salary": 66000.0,
+        "geographic_spread": 5,
+        "value_rating": 1.42
+      },
+      "Kubernetes + React Native": {
+        "avg_score": 91.11,
+        "frequency": 6,
+        "score_variance": 2.75,
+        "avg_salary": 65048.67,
+        "geographic_spread": 3,
+        "value_rating": 1.4
+      },
+      "Jenkins + Tensorflow": {
+        "avg_score": 97.5,
+        "frequency": 4,
+        "score_variance": 2.5,
+        "avg_salary": 72219.5,
+        "geographic_spread": 2,
+        "value_rating": 1.35
+      },
+      "Machine Learning + TypeScript": {
+        "avg_score": 98.33,
+        "frequency": 8,
+        "score_variance": 2.89,
+        "avg_salary": 74308.5,
+        "geographic_spread": 4,
+        "value_rating": 1.32
+      },
+      "Flask + React Native": {
+        "avg_score": 89.5,
+        "frequency": 4,
+        "score_variance": 5.5,
+        "avg_salary": 68406.5,
+        "geographic_spread": 2,
+        "value_rating": 1.31
+      },
+      "Tensorflow + TypeScript": {
+        "avg_score": 100.0,
+        "frequency": 4,
+        "score_variance": 0.0,
+        "avg_salary": 76452.5,
+        "geographic_spread": 2,
+        "value_rating": 1.31
+      },
+      "Amazon Web Services + Flutter": {
+        "avg_score": 92.83,
+        "frequency": 8,
+        "score_variance": 5.43,
+        "avg_salary": 70776.75,
+        "geographic_spread": 3,
+        "value_rating": 1.31
+      },
+      "Kubernetes + NLP": {
+        "avg_score": 94.08,
+        "frequency": 4,
+        "score_variance": 0.92,
+        "avg_salary": 72688.5,
+        "geographic_spread": 2,
+        "value_rating": 1.29
+      },
+      "Computer Vision + SQL": {
+        "avg_score": 93.9,
+        "frequency": 14,
+        "score_variance": 7.33,
+        "avg_salary": 73130.71,
+        "geographic_spread": 7,
+        "value_rating": 1.28
+      },
+      "Computer Vision + PostgreSQL": {
+        "avg_score": 99.08,
+        "frequency": 4,
+        "score_variance": 0.08,
+        "avg_salary": 77485.5,
+        "geographic_spread": 2,
+        "value_rating": 1.28
+      },
+      "Kotlin + Machine Learning": {
+        "avg_score": 95.5,
+        "frequency": 4,
+        "score_variance": 2.5,
+        "avg_salary": 76039.0,
+        "geographic_spread": 2,
+        "value_rating": 1.26
+      },
+      "Flutter + JavaScript": {
+        "avg_score": 94.83,
+        "frequency": 10,
+        "score_variance": 3.29,
+        "avg_salary": 74983.8,
+        "geographic_spread": 3,
+        "value_rating": 1.26
+      },
+      "Data Analysis + React Native": {
+        "avg_score": 91.17,
+        "frequency": 4,
+        "score_variance": 1.83,
+        "avg_salary": 72333.5,
+        "geographic_spread": 2,
+        "value_rating": 1.26
+      },
+      "Django + React Native": {
+        "avg_score": 85.06,
+        "frequency": 6,
+        "score_variance": 7.78,
+        "avg_salary": 68297.33,
+        "geographic_spread": 3,
+        "value_rating": 1.25
+      }
+    },
+    "team_templates": {
+      "startup_mvp": {
+        "description": "Scrappy full-stack team for MVP development",
+        "ideal_size": 3,
+        "avg_salary": 58513.35,
+        "avg_score": 97.16666666666667,
+        "key_traits": [
+          "full-stack",
+          "budget-conscious",
+          "high-potential"
+        ],
+        "top_candidates": [
+          {
+            "name": "Cheerful Narwhal",
+            "overall_score": 100.0,
+            "salary_full_time": 45748,
+            "country": "BC"
+          },
+          {
+            "name": "Unique Platypus",
+            "overall_score": 100.0,
+            "salary_full_time": 53471,
+            "country": "Canada"
+          },
+          {
+            "name": "Delightful",
+            "overall_score": 100.0,
+            "salary_full_time": 61355,
+            "country": "Canonsburg"
+          },
+          {
+            "name": "Clever Lion",
+            "overall_score": 100.0,
+            "salary_full_time": 72232,
+            "country": "Raleigh"
+          },
+          {
+            "name": "Kind Yak",
+            "overall_score": 100.0,
+            "salary_full_time": 46332,
+            "country": "United States"
+          }
+        ]
+      },
+      "scale_up": {
+        "description": "Balanced team for scaling existing product",
+        "ideal_size": 5,
+        "avg_salary": 72723.15,
+        "avg_score": 99.025,
+        "key_traits": [
+          "proven-experience",
+          "balanced-skills",
+          "growth-ready"
+        ],
+        "top_candidates": [
+          {
+            "name": "Zealous Goat",
+            "overall_score": 100.0,
+            "salary_full_time": 91550,
+            "country": "UK"
+          },
+          {
+            "name": "Cheerful Narwhal",
+            "overall_score": 100.0,
+            "salary_full_time": 45748,
+            "country": "BC"
+          },
+          {
+            "name": "Unique Platypus",
+            "overall_score": 100.0,
+            "salary_full_time": 53471,
+            "country": "Canada"
+          },
+          {
+            "name": "Delightful",
+            "overall_score": 100.0,
+            "salary_full_time": 61355,
+            "country": "Canonsburg"
+          },
+          {
+            "name": "Clever Lion",
+            "overall_score": 100.0,
+            "salary_full_time": 72232,
+            "country": "Raleigh"
+          }
+        ]
+      },
+      "enterprise": {
+        "description": "Senior team for complex enterprise solutions",
+        "ideal_size": 5,
+        "avg_salary": 75106.25,
+        "avg_score": 97.1,
+        "key_traits": [
+          "senior-experience",
+          "enterprise-ready",
+          "leadership"
+        ],
+        "top_candidates": [
+          {
+            "name": "Unique Platypus",
+            "overall_score": 100.0,
+            "salary_full_time": 53471,
+            "country": "Canada"
+          },
+          {
+            "name": "Courageous Goat",
+            "overall_score": 100.0,
+            "salary_full_time": 94286,
+            "country": "Renton"
+          },
+          {
+            "name": "Smart Quokka",
+            "overall_score": 99.16666666666669,
+            "salary_full_time": 72923,
+            "country": "Montenegro"
+          },
+          {
+            "name": "Optimistic Newt",
+            "overall_score": 99.16666666666669,
+            "salary_full_time": 47862,
+            "country": "Cluj-Napoca"
+          },
+          {
+            "name": "Witty Snake",
+            "overall_score": 99.0,
+            "salary_full_time": 80418,
+            "country": "Kandy"
+          }
+        ]
+      },
+      "ai_innovation": {
+        "description": "AI/ML focused team for cutting-edge development",
+        "ideal_size": 4,
+        "avg_salary": 86770.5,
+        "avg_score": 94.725,
+        "key_traits": [
+          "ai-ml-expertise",
+          "research-background",
+          "innovation-focused"
+        ],
+        "top_candidates": [
+          {
+            "name": "Kind Yak",
+            "overall_score": 100.0,
+            "salary_full_time": 46332,
+            "country": "United States"
+          },
+          {
+            "name": "Optimistic Newt",
+            "overall_score": 99.16666666666669,
+            "salary_full_time": 47862,
+            "country": "Cluj-Napoca"
+          },
+          {
+            "name": "Loyal Zebra",
+            "overall_score": 99.0,
+            "salary_full_time": 82048,
+            "country": "Peru"
+          },
+          {
+            "name": "Noble Yak",
+            "overall_score": 97.16666666666669,
+            "salary_full_time": 92048,
+            "country": "Unknown"
+          },
+          {
+            "name": "Loyal Seal",
+            "overall_score": 96.0,
+            "salary_full_time": 58769,
+            "country": "Nashville"
+          }
+        ]
+      },
+      "remote_global": {
+        "description": "Timezone-distributed remote team",
+        "ideal_size": 6,
+        "avg_salary": 68911.13333333333,
+        "avg_score": 95.3,
+        "key_traits": [
+          "remote-ready",
+          "timezone-diversity",
+          "communication-skills"
+        ],
+        "timezone_coverage": {
+          "Americas": 3,
+          "Asia": 3,
+          "Europe": 3,
+          "Other": 3,
+          "Unknown": 2,
+          "Asia-Pacific": 1
+        },
+        "top_candidates": [
+          {
+            "name": "Unique Platypus",
+            "overall_score": 100.0,
+            "salary_full_time": 53471,
+            "country": "Canada",
+            "timezone_group": "Americas"
+          },
+          {
+            "name": "Kind Yak",
+            "overall_score": 100.0,
+            "salary_full_time": 46332,
+            "country": "United States",
+            "timezone_group": "Americas"
+          },
+          {
+            "name": "Sassy Ibex",
+            "overall_score": 99.0,
+            "salary_full_time": 69510,
+            "country": "Brazil",
+            "timezone_group": "Americas"
+          },
+          {
+            "name": "Hopeful Platypus",
+            "overall_score": 95.0,
+            "salary_full_time": 83203,
+            "country": "Pakistan",
+            "timezone_group": "Asia"
+          },
+          {
+            "name": "Optimistic",
+            "overall_score": 95.0,
+            "salary_full_time": 55275,
+            "country": "Pakistan",
+            "timezone_group": "Asia"
+          },
+          {
+            "name": "Eager Lemur",
+            "overall_score": 93.0,
+            "salary_full_time": 87801,
+            "country": "Bangladesh",
+            "timezone_group": "Asia"
+          }
+        ]
+      }
+    },
+    "team_chemistry": {
+      "education_compatibility": {
+        "Associate's Degree_CS_False": {
+          "overall_score": 61.46,
+          "count": 26.0
+        },
+        "Associate's Degree_CS_True": {
+          "overall_score": 57.75,
+          "count": 31.0
+        },
+        "Bachelor's Degree_CS_False": {
+          "overall_score": 63.49,
+          "count": 193.0
+        },
+        "Bachelor's Degree_CS_True": {
+          "overall_score": 71.67,
+          "count": 313.0
+        },
+        "Doctorate_CS_False": {
+          "overall_score": 68.68,
+          "count": 19.0
+        },
+        "Doctorate_CS_True": {
+          "overall_score": 79.96,
+          "count": 7.0
+        },
+        "High School Diploma_CS_False": {
+          "overall_score": 50.89,
+          "count": 11.0
+        },
+        "High School Diploma_CS_True": {
+          "overall_score": 66.25,
+          "count": 2.0
+        },
+        "Juris Doctor (J.D)_CS_False": {
+          "overall_score": 41.92,
+          "count": 10.0
+        },
+        "Juris Doctor (J.D)_CS_True": {
+          "overall_score": 53.33,
+          "count": 1.0
+        },
+        "Master's Degree_CS_False": {
+          "overall_score": 67.43,
+          "count": 127.0
+        },
+        "Master's Degree_CS_True": {
+          "overall_score": 80.51,
+          "count": 136.0
+        }
+      },
+      "experience_balance": {
+        "Entry-Level": {
+          "overall_score": 35.51,
+          "salary_full_time": 97714.15,
+          "name": 46
+        },
+        "Junior": {
+          "overall_score": 52.6,
+          "salary_full_time": 91630.79,
+          "name": 74
+        },
+        "Mid-Level": {
+          "overall_score": 63.71,
+          "salary_full_time": 97971.69,
+          "name": 196
+        },
+        "Senior": {
+          "overall_score": 73.84,
+          "salary_full_time": 95768.38,
+          "name": 614
+        }
+      },
+      "cultural_diversity_score": 42.56410256410256,
+      "skill_overlap_analysis": {
+        "total_unique_skills": 158,
+        "common_skills_count": 81,
+        "specialization_ratio": 0.4873417721518987,
+        "most_common_skills": {
+          "Java": 294,
+          "Python": 272,
+          "SQL": 256,
+          "React": 198,
+          "JavaScript": 181,
+          "HTML/CSS": 150,
+          "Node JS": 125,
+          "Amazon Web Services": 116,
+          "Angular": 113,
+          "REST APIs": 111
+        }
+      }
+    }
+  },
+  "hiring_strategy": {
+    "talent_scarcity": {
+      "Excel": {
+        "total_candidates": 48,
+        "quality_candidates": 15,
+        "scarcity_score": 3.2
+      },
+      "Machine Learning": {
+        "total_candidates": 67,
+        "quality_candidates": 36,
+        "scarcity_score": 1.86
+      },
+      "Python": {
+        "total_candidates": 272,
+        "quality_candidates": 148,
+        "scarcity_score": 1.84
+      },
+      "Agile": {
+        "total_candidates": 88,
+        "quality_candidates": 49,
+        "scarcity_score": 1.8
+      },
+      "C++": {
+        "total_candidates": 67,
+        "quality_candidates": 38,
+        "scarcity_score": 1.76
+      },
+      "Next JS": {
+        "total_candidates": 48,
+        "quality_candidates": 28,
+        "scarcity_score": 1.71
+      },
+      "NET": {
+        "total_candidates": 44,
+        "quality_candidates": 26,
+        "scarcity_score": 1.69
+      },
+      "C#": {
+        "total_candidates": 78,
+        "quality_candidates": 47,
+        "scarcity_score": 1.66
+      },
+      "Django": {
+        "total_candidates": 68,
+        "quality_candidates": 42,
+        "scarcity_score": 1.62
+      },
+      "Java": {
+        "total_candidates": 294,
+        "quality_candidates": 183,
+        "scarcity_score": 1.61
+      },
+      "Amazon Web Services": {
+        "total_candidates": 116,
+        "quality_candidates": 72,
+        "scarcity_score": 1.61
+      },
+      "React": {
+        "total_candidates": 198,
+        "quality_candidates": 129,
+        "scarcity_score": 1.53
+      },
+      "PHP": {
+        "total_candidates": 98,
+        "quality_candidates": 64,
+        "scarcity_score": 1.53
+      },
+      "HTML/CSS": {
+        "total_candidates": 150,
+        "quality_candidates": 99,
+        "scarcity_score": 1.52
+      },
+      "Azure": {
+        "total_candidates": 76,
+        "quality_candidates": 50,
+        "scarcity_score": 1.52
+      }
+    },
+    "competition_analysis": {
+      "high_competition_candidates": 15,
+      "avg_score_threshold": 85,
+      "competitive_locations": {
+        "Brazil": 4,
+        "United States": 4,
+        "US": 1,
+        "New York": 1,
+        "Fort Smith": 1,
+        "Jordan": 1,
+        "Montenegro": 1,
+        "Nigeria": 1,
+        "Sunnyvale": 1
+      }
+    },
+    "urgency_recommendations": [
+      {
+        "priority": "IMMEDIATE",
+        "reason": "High-value full-stack candidates with reasonable salary expectations",
+        "count": 10,
+        "candidates": [
+          {
+            "name": "Cheerful Narwhal",
+            "overall_score": 100.0,
+            "salary_full_time": 45748
+          },
+          {
+            "name": "Unique Platypus",
+            "overall_score": 100.0,
+            "salary_full_time": 53471
+          },
+          {
+            "name": "Delightful",
+            "overall_score": 100.0,
+            "salary_full_time": 61355
+          },
+          {
+            "name": "Clever Lion",
+            "overall_score": 100.0,
+            "salary_full_time": 72232
+          },
+          {
+            "name": "Kind Yak",
+            "overall_score": 100.0,
+            "salary_full_time": 46332
+          },
+          {
+            "name": "Smart Quokka",
+            "overall_score": 99.16666666666669,
+            "salary_full_time": 72923
+          },
+          {
+            "name": "Optimistic Newt",
+            "overall_score": 99.16666666666669,
+            "salary_full_time": 47862
+          },
+          {
+            "name": "Magical Kangaroo",
+            "overall_score": 99.0,
+            "salary_full_time": 75920
+          },
+          {
+            "name": "Witty Snake",
+            "overall_score": 99.0,
+            "salary_full_time": 80418
+          },
+          {
+            "name": "Sassy Ibex",
+            "overall_score": 99.0,
+            "salary_full_time": 69510
+          }
+        ]
+      },
+      {
+        "priority": "STRATEGIC",
+        "reason": "Leadership experience candidates for senior positions",
+        "count": 10,
+        "candidates": [
+          {
+            "name": "Unique Platypus",
+            "overall_score": 100.0,
+            "salary_full_time": 53471
+          },
+          {
+            "name": "Smart Quokka",
+            "overall_score": 99.16666666666669,
+            "salary_full_time": 72923
+          },
+          {
+            "name": "Optimistic Newt",
+            "overall_score": 99.16666666666669,
+            "salary_full_time": 47862
+          },
+          {
+            "name": "Loyal Rabbit",
+            "overall_score": 98.16666666666669,
+            "salary_full_time": 106516
+          },
+          {
+            "name": "Mighty",
+            "overall_score": 98.0,
+            "salary_full_time": 50508
+          },
+          {
+            "name": "Calm Penguin",
+            "overall_score": 98.0,
+            "salary_full_time": 64336
+          },
+          {
+            "name": NaN,
+            "overall_score": 95.33333333333331,
+            "salary_full_time": 46419
+          },
+          {
+            "name": "Quick Dog",
+            "overall_score": 95.0,
+            "salary_full_time": 122562
+          },
+          {
+            "name": "Zealous Dog",
+            "overall_score": 95.0,
+            "salary_full_time": 83084
+          },
+          {
+            "name": "Agile Flamingo",
+            "overall_score": 95.0,
+            "salary_full_time": 103613
+          }
+        ]
+      }
+    ],
+    "market_timing": {
+      "recent_application_volume": 975,
+      "quality_trend": {
+        "avg_score_recent": 68.15418803418804,
+        "avg_score_overall": 68.15418803418804
+      },
+      "skill_demand_shifts": {},
+      "optimal_hiring_window": "immediate"
+    },
+    "hiring_risks": {
+      "talent_flight_risk": {
+        "high_risk_candidates": 1,
+        "mitigation": "competitive_offers_and_equity"
+      },
+      "skill_shortage_risks": {
+        "high_demand_backend": {
+          "total_candidates": 6,
+          "risk_level": "high"
+        },
+        "high_demand_frontend": {
+          "total_candidates": 5,
+          "risk_level": "high"
+        },
+        "data_ai": {
+          "total_candidates": 6,
+          "risk_level": "high"
+        },
+        "cloud_devops": {
+          "total_candidates": 5,
+          "risk_level": "high"
+        },
+        "mobile": {
+          "total_candidates": 4,
+          "risk_level": "high"
+        },
+        "databases": {
+          "total_candidates": 4,
+          "risk_level": "high"
+        }
+      },
+      "geographic_concentration": {
+        "concentration_ratio": 0.2605128205128205,
+        "risk_level": "low",
+        "top_countries": {
+          "United States": 126,
+          "Brazil": 93,
+          "Argentina": 35
+        }
+      },
+      "budget_inflation_risk": {
+        "avg_salary_top_quartile": 91106.88065843622,
+        "market_rate_pressure": "increasing"
+      }
+    }
+  },
+  "budget_optimization": {
+    "cost_efficiency": {
+      "top_value_candidates": [
+        {
+          "name": "Cheerful Narwhal",
+          "overall_score": 100.0,
+          "salary_full_time": 45748,
+          "value_score": 2.185887907668095,
+          "country": "BC"
+        },
+        {
+          "name": "Kind Yak",
+          "overall_score": 100.0,
+          "salary_full_time": 46332,
+          "value_score": 2.158335491668825,
+          "country": "United States"
+        },
+        {
+          "name": "Courageous Quokka",
+          "overall_score": 95.0,
+          "salary_full_time": 45662,
+          "value_score": 2.08050457711007,
+          "country": "Vietnam"
+        },
+        {
+          "name": "Optimistic Newt",
+          "overall_score": 99.16666666666669,
+          "salary_full_time": 47862,
+          "value_score": 2.071929018149402,
+          "country": "Cluj-Napoca"
+        },
+        {
+          "name": NaN,
+          "overall_score": 95.33333333333331,
+          "salary_full_time": 46419,
+          "value_score": 2.0537567231808813,
+          "country": "Sunnyvale"
+        },
+        {
+          "name": "Thoughtful Manatee",
+          "overall_score": 92.0,
+          "salary_full_time": 45776,
+          "value_score": 2.0097867878364206,
+          "country": "United States"
+        },
+        {
+          "name": "Trustworthy Bear",
+          "overall_score": 94.16666666666669,
+          "salary_full_time": 47370,
+          "value_score": 1.9878966997396388,
+          "country": "Colombia"
+        },
+        {
+          "name": "Energetic Buffalo",
+          "overall_score": 96.0,
+          "salary_full_time": 48423,
+          "value_score": 1.9825289635090761,
+          "country": "Brazil"
+        },
+        {
+          "name": "Mighty",
+          "overall_score": 98.0,
+          "salary_full_time": 50508,
+          "value_score": 1.940286687257464,
+          "country": "S\u00e3o Paulo"
+        },
+        {
+          "name": "Magical Antelope",
+          "overall_score": 93.0,
+          "salary_full_time": 48807,
+          "value_score": 1.9054643801094104,
+          "country": "Babolsar"
+        }
+      ],
+      "cost_per_skill_by_country": {
+        "BC": 1989.0434782608695,
+        "Troy": 2150.1923076923076,
+        "Bratislava": 2210.6666666666665,
+        "Netherlands": 3158.0526315789475,
+        "Saskatoon": 3216.8,
+        "Warsaw": 3744.2,
+        "Vietnam": 3805.1666666666665,
+        "Corinto": 3836.846153846154,
+        "Cluj-Napoca": 4351.090909090909,
+        "The Randstad": 4364.379310344828
+      }
+    },
+    "budget_strategies": {
+      "$400,000": {
+        "team_size": 5,
+        "total_cost": 232023,
+        "remaining_budget": 167977,
+        "avg_score": 97.9,
+        "countries_represented": 5,
+        "skills_covered": 46,
+        "team_members": [
+          {
+            "name": "Cheerful Narwhal",
+            "score": 100.0,
+            "salary": 45748,
+            "country": "BC",
+            "skills": "frontend",
+            "adjusted_score": 107.0
+          },
+          {
+            "name": "Kind Yak",
+            "score": 100.0,
+            "salary": 46332,
+            "country": "United States",
+            "skills": "languages",
+            "adjusted_score": 107.0
+          },
+          {
+            "name": "Courageous Quokka",
+            "score": 95.0,
+            "salary": 45662,
+            "country": "Vietnam",
+            "skills": "languages",
+            "adjusted_score": 102.0
+          },
+          {
+            "name": "Optimistic Newt",
+            "score": 99.16666666666669,
+            "salary": 47862,
+            "country": "Cluj-Napoca",
+            "skills": "languages",
+            "adjusted_score": 104.16666666666669
+          },
+          {
+            "name": NaN,
+            "score": 95.33333333333331,
+            "salary": 46419,
+            "country": "Sunnyvale",
+            "skills": "languages",
+            "adjusted_score": 100.33333333333331
+          }
+        ]
+      },
+      "$500,000": {
+        "team_size": 5,
+        "total_cost": 232023,
+        "remaining_budget": 267977,
+        "avg_score": 97.9,
+        "countries_represented": 5,
+        "skills_covered": 46,
+        "team_members": [
+          {
+            "name": "Cheerful Narwhal",
+            "score": 100.0,
+            "salary": 45748,
+            "country": "BC",
+            "skills": "frontend",
+            "adjusted_score": 107.0
+          },
+          {
+            "name": "Kind Yak",
+            "score": 100.0,
+            "salary": 46332,
+            "country": "United States",
+            "skills": "languages",
+            "adjusted_score": 107.0
+          },
+          {
+            "name": "Courageous Quokka",
+            "score": 95.0,
+            "salary": 45662,
+            "country": "Vietnam",
+            "skills": "languages",
+            "adjusted_score": 102.0
+          },
+          {
+            "name": "Optimistic Newt",
+            "score": 99.16666666666669,
+            "salary": 47862,
+            "country": "Cluj-Napoca",
+            "skills": "languages",
+            "adjusted_score": 104.16666666666669
+          },
+          {
+            "name": NaN,
+            "score": 95.33333333333331,
+            "salary": 46419,
+            "country": "Sunnyvale",
+            "skills": "languages",
+            "adjusted_score": 100.33333333333331
+          }
+        ]
+      },
+      "$600,000": {
+        "team_size": 5,
+        "total_cost": 232023,
+        "remaining_budget": 367977,
+        "avg_score": 97.9,
+        "countries_represented": 5,
+        "skills_covered": 46,
+        "team_members": [
+          {
+            "name": "Cheerful Narwhal",
+            "score": 100.0,
+            "salary": 45748,
+            "country": "BC",
+            "skills": "frontend",
+            "adjusted_score": 107.0
+          },
+          {
+            "name": "Kind Yak",
+            "score": 100.0,
+            "salary": 46332,
+            "country": "United States",
+            "skills": "languages",
+            "adjusted_score": 107.0
+          },
+          {
+            "name": "Courageous Quokka",
+            "score": 95.0,
+            "salary": 45662,
+            "country": "Vietnam",
+            "skills": "languages",
+            "adjusted_score": 102.0
+          },
+          {
+            "name": "Optimistic Newt",
+            "score": 99.16666666666669,
+            "salary": 47862,
+            "country": "Cluj-Napoca",
+            "skills": "languages",
+            "adjusted_score": 104.16666666666669
+          },
+          {
+            "name": NaN,
+            "score": 95.33333333333331,
+            "salary": 46419,
+            "country": "Sunnyvale",
+            "skills": "languages",
+            "adjusted_score": 100.33333333333331
+          }
+        ]
+      }
+    }
+  },
+  "actionable_recommendations": {
+    "immediate_actions": [
+      {
+        "action": "immediate_outreach",
+        "priority": "HIGH",
+        "description": "Contact 5 high-value, budget-friendly candidates",
+        "candidates": [
+          {
+            "name": "Cheerful Narwhal",
+            "overall_score": 100.0,
+            "salary_full_time": 45748,
+            "country": "BC"
+          },
+          {
+            "name": "Unique Platypus",
+            "overall_score": 100.0,
+            "salary_full_time": 53471,
+            "country": "Canada"
+          },
+          {
+            "name": "Kind Yak",
+            "overall_score": 100.0,
+            "salary_full_time": 46332,
+            "country": "United States"
+          },
+          {
+            "name": "Optimistic Newt",
+            "overall_score": 99.16666666666669,
+            "salary_full_time": 47862,
+            "country": "Cluj-Napoca"
+          },
+          {
+            "name": "Mighty",
+            "overall_score": 98.0,
+            "salary_full_time": 50508,
+            "country": "S\u00e3o Paulo"
+          }
+        ],
+        "timeline": "24-48 hours"
+      },
+      {
+        "action": "skill_gap_targeting",
+        "priority": "MEDIUM",
+        "description": "Target candidates with scarce but critical skills",
+        "skills_needed": [
+          {
+            "category": "high_demand_backend",
+            "skills": [
+              "Node JS",
+              "Python",
+              "Java",
+              "Express",
+              "Django",
+              "Flask"
+            ],
+            "current_candidates": 6,
+            "urgency": "high"
+          },
+          {
+            "category": "high_demand_frontend",
+            "skills": [
+              "React",
+              "JavaScript",
+              "TypeScript",
+              "Angular",
+              "Vue JS"
+            ],
+            "current_candidates": 5,
+            "urgency": "high"
+          },
+          {
+            "category": "data_ai",
+            "skills": [
+              "Machine Learning",
+              "Data Analysis",
+              "Tensorflow",
+              "Pytorch",
+              "NLP",
+              "Computer Vision"
+            ],
+            "current_candidates": 6,
+            "urgency": "high"
+          },
+          {
+            "category": "cloud_devops",
+            "skills": [
+              "Amazon Web Services",
+              "Docker",
+              "Kubernetes",
+              "Azure",
+              "Jenkins"
+            ],
+            "current_candidates": 5,
+            "urgency": "high"
+          },
+          {
+            "category": "mobile",
+            "skills": [
+              "React Native",
+              "Flutter",
+              "Swift",
+              "Kotlin"
+            ],
+            "current_candidates": 4,
+            "urgency": "high"
+          },
+          {
+            "category": "databases",
+            "skills": [
+              "SQL",
+              "PostgreSQL",
+              "MongoDB",
+              "Redis"
+            ],
+            "current_candidates": 4,
+            "urgency": "high"
+          }
+        ],
+        "timeline": "1-2 weeks"
+      },
+      {
+        "action": "geographic_expansion",
+        "priority": "MEDIUM",
+        "description": "Expand hiring in underrepresented but valuable regions",
+        "target_regions": [
+          {
+            "country": "BC",
+            "avg_score": 100.0,
+            "avg_salary": 45748.0,
+            "candidate_count": 1.0
+          },
+          {
+            "country": "Renton",
+            "avg_score": 100.0,
+            "avg_salary": 94286.0,
+            "candidate_count": 1.0
+          },
+          {
+            "country": "Cluj-Napoca",
+            "avg_score": 99.17,
+            "avg_salary": 47862.0,
+            "candidate_count": 1.0
+          },
+          {
+            "country": "Irvine",
+            "avg_score": 99.0,
+            "avg_salary": 75920.0,
+            "candidate_count": 1.0
+          },
+          {
+            "country": "Kandy",
+            "avg_score": 99.0,
+            "avg_salary": 80418.0,
+            "candidate_count": 1.0
+          }
+        ],
+        "timeline": "2-4 weeks"
+      }
+    ],
+    "team_building_strategies": [
+      {
+        "strategy": "core_team_first",
+        "description": "Build strong core team with full-stack capabilities",
+        "candidates": [
+          {
+            "name": "Brave Tiger",
+            "overall_score": 81.0,
+            "primary_skill_category": "frontend"
+          },
+          {
+            "name": "Mischievous Snake",
+            "overall_score": 95.0,
+            "primary_skill_category": "database"
+          },
+          {
+            "name": "Intelligent Wombat",
+            "overall_score": 95.0,
+            "primary_skill_category": "backend"
+          }
+        ],
+        "budget_estimate": "183620"
+      },
+      {
+        "strategy": "specialist_addition",
+        "description": "Add specialists for key technical areas",
+        "specialists": [
+          {
+            "candidate_id": 228,
+            "name": "Loyal Zebra",
+            "email": "loyal-zebra@example.com",
+            "phone": 511904694041.0,
+            "submitted_at": "2025-01-27 20:05:56.000000",
+            "salary_full_time": 82048,
+            "salary_part_time": 0,
+            "has_salary_info": true,
+            "salary_ratio_pt_ft": 0.0,
+            "available_full_time": true,
+            "available_part_time": true,
+            "availability_flexibility": 2,
+            "both_available": true,
+            "total_experiences": 3,
+            "unique_companies": 3,
+            "has_big_tech": false,
+            "has_senior_role": false,
+            "has_lead_role": false,
+            "most_common_role_type": "Analytics",
+            "experience_diversity_score": 1.0,
+            "company_prestige_score": 3,
+            "avg_prestige_per_role": 1.0,
+            "highest_education_level": "Master's Degree",
+            "total_degrees": 3,
+            "has_cs_degree": true,
+            "has_top_school": false,
+            "has_high_gpa": true,
+            "total_skills": 16,
+            "frontend_skills": 0,
+            "backend_skills": 0,
+            "mobile_skills": 0,
+            "data_skills": 5,
+            "cloud_skills": 2,
+            "database_skills": 3,
+            "devops_skills": 0,
+            "language_skills": 2,
+            "is_full_stack": false,
+            "high_demand_skills": 5,
+            "skills_diversity_score": 0.5,
+            "primary_skill_category": "data",
+            "country": "Peru",
+            "city": "Peru",
+            "continent": "South America",
+            "timezone_group": "Other",
+            "is_major_tech_hub": false,
+            "experience_score": 24,
+            "skills_score": 30,
+            "education_score": 15,
+            "market_value_score": 20,
+            "completeness_score": 12,
+            "detailed_experience_score": 12,
+            "detailed_skills_score": 35.0,
+            "detailed_education_score": 25,
+            "detailed_skill_categories": "['data', 'database', 'cloud', 'languages']",
+            "detailed_is_full_stack": false,
+            "detailed_high_demand_count": 5.0,
+            "detailed_has_tech_degree": true,
+            "detailed_top50_schools": 0.0,
+            "detailed_top25_schools": 0.0,
+            "overall_score": 99.0,
+            "enhanced_overall_score": 104.0,
+            "experience_level": "Senior",
+            "enhanced_experience_level": "Junior",
+            "original_skills": "SQL, Machine Learning, Power BI, REST APIs, Amazon Web Services, MongoDB, Excel, Pandas, Pytorch, Java, ETL, Computer Vision, Python, Tensorflow, Google Cloud Platform, PostgreSQL",
+            "original_work_experiences": "Blaze: Data Scientist; Infocore: Data Scientist; Superintendencia Nacional de Migraciones: Research and Development Intern",
+            "score_percentile": 98.92307692307692,
+            "enhanced_score_percentile": 93.12820512820514,
+            "salary_percentile": 34.66666666666667,
+            "experience_percentile": 40.35897435897436,
+            "value_tier": "Excellent",
+            "enhanced_value_tier": "Medium",
+            "experience_tier": "Mid",
+            "budget_category": "Standard",
+            "value_for_money": 1.2066107644305772,
+            "enhanced_value_for_money": 1.2675507020280812,
+            "submitted_date": "2025-01-27 20:05:56"
+          },
+          {
+            "candidate_id": 622,
+            "name": "Smart Quokka",
+            "email": "smart-quokka@example.com",
+            "phone": NaN,
+            "submitted_at": "2025-01-28 06:00:21.000000",
+            "salary_full_time": 72923,
+            "salary_part_time": 0,
+            "has_salary_info": true,
+            "salary_ratio_pt_ft": 0.0,
+            "available_full_time": true,
+            "available_part_time": true,
+            "availability_flexibility": 2,
+            "both_available": true,
+            "total_experiences": 8,
+            "unique_companies": 8,
+            "has_big_tech": true,
+            "has_senior_role": true,
+            "has_lead_role": true,
+            "most_common_role_type": "Engineering",
+            "experience_diversity_score": 1.0,
+            "company_prestige_score": 17,
+            "avg_prestige_per_role": 2.125,
+            "highest_education_level": "Master's Degree",
+            "total_degrees": 1,
+            "has_cs_degree": false,
+            "has_top_school": false,
+            "has_high_gpa": false,
+            "total_skills": 14,
+            "frontend_skills": 1,
+            "backend_skills": 2,
+            "mobile_skills": 0,
+            "data_skills": 1,
+            "cloud_skills": 3,
+            "database_skills": 2,
+            "devops_skills": 2,
+            "language_skills": 2,
+            "is_full_stack": true,
+            "high_demand_skills": 6,
+            "skills_diversity_score": 0.875,
+            "primary_skill_category": "cloud",
+            "country": "Montenegro",
+            "city": "Montenegro",
+            "continent": "Other",
+            "timezone_group": "Other",
+            "is_major_tech_hub": false,
+            "experience_score": 25,
+            "skills_score": 30,
+            "education_score": 15,
+            "market_value_score": 20,
+            "completeness_score": 11,
+            "detailed_experience_score": 35,
+            "detailed_skills_score": 37.75,
+            "detailed_education_score": 20,
+            "detailed_skill_categories": "['frontend', 'backend', 'data', 'database', 'cloud', 'devops', 'languages']",
+            "detailed_is_full_stack": true,
+            "detailed_high_demand_count": 6.0,
+            "detailed_has_tech_degree": false,
+            "detailed_top50_schools": 0.0,
+            "detailed_top25_schools": 0.0,
+            "overall_score": 99.16666666666669,
+            "enhanced_overall_score": 123.75,
+            "experience_level": "Senior",
+            "enhanced_experience_level": "Mid-Level",
+            "original_skills": "Amazon Web Services, Computer Vision, Docker, Django, GoLang, Node JS, Python, SQL, TypeScript, Kubernetes, Agile, PostgreSQL, Microservices, Penetration Testing",
+            "original_work_experiences": "Amazon Web Services: Senior System Administrator; ATOM Tech: Senior Backend Engineer; Heyling: Lead Backend Engineer; Agora: Backend Engineer; Vital: DevOps Engineer; NCRE: Backend Engineer; TSD Group: Systems Engineer; Vigstar: Systems Engineer",
+            "score_percentile": 99.23076923076924,
+            "enhanced_score_percentile": 99.8974358974359,
+            "salary_percentile": 27.794871794871796,
+            "experience_percentile": 98.56410256410255,
+            "value_tier": "Excellent",
+            "enhanced_value_tier": "High",
+            "experience_tier": "Senior",
+            "budget_category": "Standard",
+            "value_for_money": 1.3598818845448852,
+            "enhanced_value_for_money": 1.696995460965676,
+            "submitted_date": "2025-01-28 06:00:21"
+          },
+          {
+            "candidate_id": 97,
+            "name": "Brave Emu",
+            "email": "brave-emu@example.com",
+            "phone": 49415145251398.0,
+            "submitted_at": "2025-01-27 12:19:15.000000",
+            "salary_full_time": 88539,
+            "salary_part_time": 0,
+            "has_salary_info": true,
+            "salary_ratio_pt_ft": 0.0,
+            "available_full_time": true,
+            "available_part_time": true,
+            "availability_flexibility": 2,
+            "both_available": true,
+            "total_experiences": 4,
+            "unique_companies": 4,
+            "has_big_tech": false,
+            "has_senior_role": false,
+            "has_lead_role": false,
+            "most_common_role_type": "Engineering",
+            "experience_diversity_score": 1.0,
+            "company_prestige_score": 4,
+            "avg_prestige_per_role": 1.0,
+            "highest_education_level": "Master's Degree",
+            "total_degrees": 2,
+            "has_cs_degree": true,
+            "has_top_school": false,
+            "has_high_gpa": true,
+            "total_skills": 3,
+            "frontend_skills": 0,
+            "backend_skills": 0,
+            "mobile_skills": 1,
+            "data_skills": 1,
+            "cloud_skills": 0,
+            "database_skills": 0,
+            "devops_skills": 0,
+            "language_skills": 0,
+            "is_full_stack": false,
+            "high_demand_skills": 0,
+            "skills_diversity_score": 0.25,
+            "primary_skill_category": "mobile",
+            "country": "Erlangen",
+            "city": "Erlangen",
+            "continent": "Other",
+            "timezone_group": "Other",
+            "is_major_tech_hub": false,
+            "experience_score": 25,
+            "skills_score": 6,
+            "education_score": 15,
+            "market_value_score": 20,
+            "completeness_score": 12,
+            "detailed_experience_score": 16,
+            "detailed_skills_score": 5.5,
+            "detailed_education_score": 25,
+            "detailed_skill_categories": "['mobile', 'data']",
+            "detailed_is_full_stack": false,
+            "detailed_high_demand_count": 0.0,
+            "detailed_has_tech_degree": true,
+            "detailed_top50_schools": 0.0,
+            "detailed_top25_schools": 0.0,
+            "overall_score": 76.0,
+            "enhanced_overall_score": 78.5,
+            "experience_level": "Senior",
+            "enhanced_experience_level": "Junior",
+            "original_skills": "Computer Vision, Swift, Objective-C",
+            "original_work_experiences": "NCP Engineering: Security Engineer; IDrive Software: Software Developer Intern; KPIT Technologies: Research and Development Intern; Tata Consultancy Services: Systems Engineer",
+            "score_percentile": 67.48717948717949,
+            "enhanced_score_percentile": 63.53846153846155,
+            "salary_percentile": 41.02564102564102,
+            "experience_percentile": 57.12820512820512,
+            "value_tier": "High",
+            "enhanced_value_tier": "Low",
+            "experience_tier": "Mid",
+            "budget_category": "Standard",
+            "value_for_money": 0.8583787935260168,
+            "enhanced_value_for_money": 0.8866149380498989,
+            "submitted_date": "2025-01-27 12:19:15"
+          }
+        ],
+        "total_budget": 243510
+      }
+    ],
+    "budget_optimization_tactics": [
+      {
+        "tactic": "geographic_arbitrage",
+        "description": "Focus hiring in high-value, lower-cost countries",
+        "target_countries": {
+          "overall_score": {
+            "Belo Horizonte": 75.31
+          },
+          "salary_full_time": {
+            "Belo Horizonte": 78546.5
+          },
+          "name": {
+            "Belo Horizonte": 5
+          }
+        },
+        "potential_savings": "20-40% vs US market rates"
+      },
+      {
+        "tactic": "optimal_seniority_mix",
+        "description": "2:1 ratio of high-potential junior to proven senior talent",
+        "junior_avg_cost": 87485.33333333333,
+        "senior_avg_cost": 91493.13924050632,
+        "recommended_ratio": "2 junior : 1 senior"
+      }
+    ],
+    "long_term_pipeline": {
+      "emerging_talent_pool": {
+        "total_candidates": 2,
+        "avg_score": 76.0,
+        "growth_potential": "high"
+      },
+      "university_partnerships": {
+        "target_schools": {
+          "Master's Degree": 80,
+          "Bachelor's Degree": 46,
+          "Doctorate": 13,
+          "Juris Doctor (J.D)": 3,
+          "Associate's Degree": 1
+        },
+        "focus_degrees": [
+          "Computer Science",
+          "Data Science",
+          "Software Engineering"
+        ]
+      },
+      "skill_development_programs": {
+        "internal_training": [
+          "AI/ML",
+          "Cloud Architecture",
+          "Full-Stack Development"
+        ],
+        "external_partnerships": [
+          "Bootcamps",
+          "Online Platforms",
+          "Certification Programs"
+        ]
+      }
+    }
+  },
+  "risk_mitigation": {
+    "talent_flight_risk": {
+      "high_risk_candidates": 1,
+      "mitigation": "competitive_offers_and_equity"
+    },
+    "skill_shortage_risks": {
+      "high_demand_backend": {
+        "total_candidates": 6,
+        "risk_level": "high"
+      },
+      "high_demand_frontend": {
+        "total_candidates": 5,
+        "risk_level": "high"
+      },
+      "data_ai": {
+        "total_candidates": 6,
+        "risk_level": "high"
+      },
+      "cloud_devops": {
+        "total_candidates": 5,
+        "risk_level": "high"
+      },
+      "mobile": {
+        "total_candidates": 4,
+        "risk_level": "high"
+      },
+      "databases": {
+        "total_candidates": 4,
+        "risk_level": "high"
+      }
+    },
+    "geographic_concentration": {
+      "concentration_ratio": 0.2605128205128205,
+      "risk_level": "low",
+      "top_countries": {
+        "United States": 126,
+        "Brazil": 93,
+        "Argentina": 35
+      }
+    },
+    "budget_inflation_risk": {
+      "avg_salary_top_quartile": 91106.88065843622,
+      "market_rate_pressure": "increasing"
+    }
+  },
+  "success_metrics": {
+    "quality_metrics": {
+      "target_avg_score": 75,
+      "min_acceptable_score": 65,
+      "target_senior_ratio": 0.3
+    },
+    "diversity_metrics": {
+      "target_countries": 5,
+      "target_timezone_coverage": 3,
+      "target_skill_categories": 6
+    },
+    "budget_metrics": {
+      "target_cost_per_hire": 80000,
+      "target_value_ratio": 1.0,
+      "budget_efficiency_target": 0.8
+    },
+    "timeline_metrics": {
+      "target_time_to_hire": "2-3 weeks",
+      "pipeline_fill_rate": "80%",
+      "offer_acceptance_rate": "75%"
+    }
+  }
+}
