@@ -36,3 +36,169 @@
     transform: rotate(360deg);
   }
 }
+
+/* HiringSight Specific Styles */
+.hiring-dashboard {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+}
+
+.stats-card {
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.stats-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+
+.candidate-card {
+  background: white;
+  border-radius: 16px;
+  padding: 20px;
+  border: 1px solid #e5e7eb;
+  transition: all 0.3s ease;
+}
+
+.candidate-card:hover {
+  border-color: #3b82f6;
+  box-shadow: 0 8px 25px rgba(59, 130, 246, 0.1);
+}
+
+.skill-tag {
+  display: inline-block;
+  padding: 4px 12px;
+  background: #eff6ff;
+  color: #1d4ed8;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 500;
+  margin: 2px;
+}
+
+.score-badge {
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 14px;
+}
+
+.score-excellent {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.score-good {
+  background: #dbeafe;
+  color: #1e40af;
+}
+
+.score-average {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.score-poor {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.filter-panel {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.team-member-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 8px 0;
+}
+
+.insights-tab {
+  border-bottom: 2px solid transparent;
+  padding: 12px 24px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.insights-tab.active {
+  border-bottom-color: #3b82f6;
+  color: #3b82f6;
+  background: #eff6ff;
+}
+
+.insights-tab:hover {
+  background: #f8fafc;
+}
+
+.metric-card {
+  background: white;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+  border: 1px solid #e5e7eb;
+}
+
+.metric-value {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #1f2937;
+}
+
+.metric-label {
+  font-size: 0.875rem;
+  color: #6b7280;
+  margin-top: 4px;
+}
+
+/* Chart Styles */
+.chart-container {
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.chart-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #1f2937;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1024px) {
+  .stats-card {
+    padding: 16px;
+  }
+  
+  .candidate-card {
+    padding: 16px;
+  }
+}
+
+@media (max-width: 768px) {
+  .hiring-dashboard {
+    padding: 16px;
+  }
+  
+  .insights-tab {
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+  
+  .metric-value {
+    font-size: 1.5rem;
+  }
+}
