@@ -2,6 +2,9 @@
 
 > A comprehensive hiring dashboard that analyzes candidate data and provides AI-driven insights for strategic talent acquisition.
 
+## 🌟 **Live Demo**
+- **🚀 Video Demo**: [Demo](https://drive.google.com/file/d/16p0sSyaOOB2m4-dd_bSXJhl2Fv3bpj30/view?usp=sharing)
+
 ## 📊 **Project Overview**
 
 HiringSight is an advanced hiring intelligence platform that processes 55,000+ candidate submissions to provide:
@@ -322,7 +325,7 @@ REACT_APP_TITLE=HiringSight
 | 🧠 **AI Insights** | Strategic insights | 7 specialized analysis tabs |
 
 ## 📚 **Documentation**
-
+- **📹 Video Demo**: [Demo](https://drive.google.com/file/d/16p0sSyaOOB2m4-dd_bSXJhl2Fv3bpj30/view?usp=sharing)
 - **API Documentation**: http://localhost:8000/docs (Interactive Swagger UI)
 - **Frontend Documentation**: [frontend/README.md](frontend/README.md)
 - **Development Roadmap**: [roadmap.md](roadmap.md)
